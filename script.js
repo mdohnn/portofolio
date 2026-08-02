@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 </div>
 
                 <div class="title-box">
-                    <h1 class="title">HANN</h1>
+                    <h1 class="title">HANN HANN</h1>
                 </div>
 
                 <p class="description">
